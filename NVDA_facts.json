@@ -1,0 +1,307 @@
+{
+  "ticker": "NVDA",
+  "cik": "0001045810",
+  "company": "NVIDIA CORP",
+  "rows": [
+    {
+      "fiscal_year_end": "2022-01-30",
+      "revenue": {
+        "value": 26914.0,
+        "tag": "RevenueFromContractWithCustomerExcludingAssessedTax",
+        "filed": "2022-03-18"
+      },
+      "net_income": {
+        "value": 9752.0,
+        "tag": "NetIncomeLoss",
+        "filed": "2024-02-21"
+      },
+      "operating_cash_flow": {
+        "value": 9108.0,
+        "tag": "NetCashProvidedByUsedInOperatingActivities",
+        "filed": "2024-02-21"
+      },
+      "capital_spending": {
+        "value": 976.0,
+        "tag": "PaymentsToAcquireProductiveAssets",
+        "filed": "2024-02-21"
+      },
+      "equity": {
+        "value": 26612.0,
+        "tag": "StockholdersEquity",
+        "filed": "2025-02-26"
+      },
+      "liabilities": {
+        "value": 17575.0,
+        "tag": "Liabilities",
+        "filed": "2023-02-24"
+      },
+      "assets_current": {
+        "value": 28829.0,
+        "tag": "AssetsCurrent",
+        "filed": "2023-02-24"
+      },
+      "liabilities_current": {
+        "value": 4335.0,
+        "tag": "LiabilitiesCurrent",
+        "filed": "2023-02-24"
+      },
+      "owner_earnings": {
+        "value": 8132.0,
+        "tag": "computed: operating cash flow - capital spending"
+      },
+      "roe": {
+        "value": 36.64512250112731,
+        "tag": "computed: net income / year-end equity"
+      },
+      "current_ratio": {
+        "value": 6.650288350634371,
+        "tag": "computed: assets current / liabilities current"
+      },
+      "liabilities_to_equity": {
+        "value": 0.6604163535247257,
+        "tag": "computed: liabilities / equity"
+      }
+    },
+    {
+      "fiscal_year_end": "2023-01-29",
+      "revenue": {
+        "value": 26974.0,
+        "tag": "Revenues",
+        "filed": "2025-02-26"
+      },
+      "net_income": {
+        "value": 4368.0,
+        "tag": "NetIncomeLoss",
+        "filed": "2025-02-26"
+      },
+      "operating_cash_flow": {
+        "value": 5641.0,
+        "tag": "NetCashProvidedByUsedInOperatingActivities",
+        "filed": "2025-02-26"
+      },
+      "capital_spending": {
+        "value": 1833.0,
+        "tag": "PaymentsToAcquireProductiveAssets",
+        "filed": "2025-02-26"
+      },
+      "equity": {
+        "value": 22101.0,
+        "tag": "StockholdersEquity",
+        "filed": "2026-02-25"
+      },
+      "liabilities": {
+        "value": 19081.0,
+        "tag": "Liabilities",
+        "filed": "2024-02-21"
+      },
+      "assets_current": {
+        "value": 23073.0,
+        "tag": "AssetsCurrent",
+        "filed": "2024-02-21"
+      },
+      "liabilities_current": {
+        "value": 6563.0,
+        "tag": "LiabilitiesCurrent",
+        "filed": "2024-02-21"
+      },
+      "owner_earnings": {
+        "value": 3808.0,
+        "tag": "computed: operating cash flow - capital spending"
+      },
+      "roe": {
+        "value": 19.763811592235644,
+        "tag": "computed: net income / year-end equity"
+      },
+      "current_ratio": {
+        "value": 3.515617857687033,
+        "tag": "computed: assets current / liabilities current"
+      },
+      "liabilities_to_equity": {
+        "value": 0.8633545993393964,
+        "tag": "computed: liabilities / equity"
+      }
+    },
+    {
+      "fiscal_year_end": "2024-01-28",
+      "revenue": {
+        "value": 60922.0,
+        "tag": "Revenues",
+        "filed": "2026-02-25"
+      },
+      "net_income": {
+        "value": 29760.0,
+        "tag": "NetIncomeLoss",
+        "filed": "2026-02-25"
+      },
+      "operating_cash_flow": {
+        "value": 28090.0,
+        "tag": "NetCashProvidedByUsedInOperatingActivities",
+        "filed": "2026-02-25"
+      },
+      "capital_spending": {
+        "value": 1069.0,
+        "tag": "PaymentsToAcquireProductiveAssets",
+        "filed": "2026-02-25"
+      },
+      "equity": {
+        "value": 42978.0,
+        "tag": "StockholdersEquity",
+        "filed": "2026-02-25"
+      },
+      "liabilities": {
+        "value": 22750.0,
+        "tag": "Liabilities",
+        "filed": "2025-02-26"
+      },
+      "assets_current": {
+        "value": 44345.0,
+        "tag": "AssetsCurrent",
+        "filed": "2025-02-26"
+      },
+      "liabilities_current": {
+        "value": 10631.0,
+        "tag": "LiabilitiesCurrent",
+        "filed": "2025-02-26"
+      },
+      "owner_earnings": {
+        "value": 27021.0,
+        "tag": "computed: operating cash flow - capital spending"
+      },
+      "roe": {
+        "value": 69.24472986178975,
+        "tag": "computed: net income / year-end equity"
+      },
+      "current_ratio": {
+        "value": 4.171291505973097,
+        "tag": "computed: assets current / liabilities current"
+      },
+      "liabilities_to_equity": {
+        "value": 0.529340592861464,
+        "tag": "computed: liabilities / equity"
+      }
+    },
+    {
+      "fiscal_year_end": "2025-01-26",
+      "revenue": {
+        "value": 130497.0,
+        "tag": "Revenues",
+        "filed": "2026-02-25"
+      },
+      "net_income": {
+        "value": 72880.0,
+        "tag": "NetIncomeLoss",
+        "filed": "2026-02-25"
+      },
+      "operating_cash_flow": {
+        "value": 64089.0,
+        "tag": "NetCashProvidedByUsedInOperatingActivities",
+        "filed": "2026-02-25"
+      },
+      "capital_spending": {
+        "value": 3236.0,
+        "tag": "PaymentsToAcquireProductiveAssets",
+        "filed": "2026-02-25"
+      },
+      "equity": {
+        "value": 79327.0,
+        "tag": "StockholdersEquity",
+        "filed": "2026-02-25"
+      },
+      "liabilities": {
+        "value": 32274.0,
+        "tag": "Liabilities",
+        "filed": "2026-02-25"
+      },
+      "assets_current": {
+        "value": 80126.0,
+        "tag": "AssetsCurrent",
+        "filed": "2026-02-25"
+      },
+      "liabilities_current": {
+        "value": 18047.0,
+        "tag": "LiabilitiesCurrent",
+        "filed": "2026-02-25"
+      },
+      "owner_earnings": {
+        "value": 60853.0,
+        "tag": "computed: operating cash flow - capital spending"
+      },
+      "roe": {
+        "value": 91.87288060811576,
+        "tag": "computed: net income / year-end equity"
+      },
+      "current_ratio": {
+        "value": 4.439851498864077,
+        "tag": "computed: assets current / liabilities current"
+      },
+      "liabilities_to_equity": {
+        "value": 0.4068476054811098,
+        "tag": "computed: liabilities / equity"
+      }
+    },
+    {
+      "fiscal_year_end": "2026-01-25",
+      "revenue": {
+        "value": 215938.0,
+        "tag": "Revenues",
+        "filed": "2026-02-25"
+      },
+      "net_income": {
+        "value": 120067.0,
+        "tag": "NetIncomeLoss",
+        "filed": "2026-02-25"
+      },
+      "operating_cash_flow": {
+        "value": 102718.0,
+        "tag": "NetCashProvidedByUsedInOperatingActivities",
+        "filed": "2026-02-25"
+      },
+      "capital_spending": {
+        "value": 6042.0,
+        "tag": "PaymentsToAcquireProductiveAssets",
+        "filed": "2026-02-25"
+      },
+      "equity": {
+        "value": 157293.0,
+        "tag": "StockholdersEquity",
+        "filed": "2026-02-25"
+      },
+      "liabilities": {
+        "value": 49510.0,
+        "tag": "Liabilities",
+        "filed": "2026-02-25"
+      },
+      "assets_current": {
+        "value": 125605.0,
+        "tag": "AssetsCurrent",
+        "filed": "2026-02-25"
+      },
+      "liabilities_current": {
+        "value": 32163.0,
+        "tag": "LiabilitiesCurrent",
+        "filed": "2026-02-25"
+      },
+      "owner_earnings": {
+        "value": 96676.0,
+        "tag": "computed: operating cash flow - capital spending"
+      },
+      "roe": {
+        "value": 76.33333969089534,
+        "tag": "computed: net income / year-end equity"
+      },
+      "current_ratio": {
+        "value": 3.905263812455306,
+        "tag": "computed: assets current / liabilities current"
+      },
+      "liabilities_to_equity": {
+        "value": 0.3147628947251308,
+        "tag": "computed: liabilities / equity"
+      }
+    }
+  ],
+  "checks": {
+    "ROE of 15% or more every year": "pass",
+    "Owner earnings positive every year": "pass",
+    "Owner earnings grew, first year to last": "pass"
+  }
+}
